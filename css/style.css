@@ -4,9 +4,8 @@ h1, p {
     text-align: center;
 }
 
-a {color: green;
-display: block;
-text-align: center;
+footer a {color: green;
+
 margin: 0 10px}
 
 .croissant-photo {
@@ -14,4 +13,9 @@ margin: 0 10px}
     border-radius: 10px;
     display: block;
     margin: 30px auto;
+}
+
+footer {
+    text-align: center;
+    display: block;
 }
